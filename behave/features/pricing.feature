@@ -1,4 +1,4 @@
-Feature: Resources
+Feature: Pricing
 
 Background: SETUP
     Given I click in "Pricing" tab
