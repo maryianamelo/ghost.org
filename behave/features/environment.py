@@ -1,10 +1,8 @@
 import os
-
 from selenium.webdriver.chrome.options import Options
 from webdriver_manager.chrome import ChromeDriverManager
 from selenium import webdriver
 from utils.util import *
-
 
 def before_all(context):
     context.base_url_mainpage = context.config.userdata['BASE_URL']
