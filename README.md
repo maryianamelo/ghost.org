@@ -6,7 +6,7 @@ First you must have install python in your system by following this link: (https
 
 After that download the repository to a folder, go to behave folder and run `pip install -r requirements.txt` to install all of the Python modules and packages listed in the requirements.txt file.
 
-If pip is not installed, please verify wich version you have. After check pip version, run `pip[your_version] install -r requirements.txt`
+If pip is not installed, please verify which version you have. After check pip version, run `pip[your_version] install -r requirements.txt`
 
 ## How to run all features
 
