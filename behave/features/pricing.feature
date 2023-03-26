@@ -3,7 +3,6 @@ Feature: Resources
 Background: SETUP
     Given I click in "Pricing" tab
 
-@debug
 Scenario: Search for create new blog
     Given I click "8" times in a range
     Then  I verify that the audience number is defined as up to "20,000" members
