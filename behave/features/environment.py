@@ -1,4 +1,3 @@
-import os
 from selenium.webdriver.chrome.options import Options
 from webdriver_manager.chrome import ChromeDriverManager
 from selenium import webdriver
@@ -15,4 +14,3 @@ def before_scenario(context, feature):
 
 def after_scenario(context, scenario):
     context.driver.quit()
-
