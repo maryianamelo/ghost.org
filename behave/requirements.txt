@@ -2,3 +2,4 @@ behave
 selenium
 PyHamcrest
 clean-text
+webdriver_manager
